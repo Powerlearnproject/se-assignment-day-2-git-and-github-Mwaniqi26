@@ -16,7 +16,7 @@ A commit is a snapshot of changes in a GitHub repository, helping track modifica
 Git branching allows developers to work on features or fixes independently without affecting the main code. It supports parallel development, code reviews, and safe experimentation.
 
 Typical Workflow:
-Create a branch: git checkout -b feature-branch
+Create a branch: git checkout -b feature-branch  done
 Make changes & commit: git add . → git commit -m "message"
 Push to GitHub: git push -u origin feature-branch
 Create a Pull Request (PR) for review
